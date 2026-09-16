@@ -14,3 +14,7 @@ Peti čvor u WHR mapi kancelarija.
 ```text
 14_GROK_kancelarija
 Grok_ai_alat ≠ Grok_zec ≠ grok_X_code
+
+ŽIVO    = da
+KOSTUR  = da
+KANON   = i dalje ne
